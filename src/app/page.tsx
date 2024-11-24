@@ -23,6 +23,7 @@ export default function TodoApp() {
 
   return (
     <div className="min-h-screen bg-gradient-to-r from-pink-400 via-purple-400 to-indigo-500 p-4 sm:p-8 md:p-12 lg:p-16">
+
       <div className="max-w-xl mx-auto  mt-24 bg-white p-4 rounded-lg shadow-lg shadow-black">
         <h1 className="text-3xl font-bold text-center text-purple-600">
           🌈 Colorful ToDo App
